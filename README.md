@@ -1,4 +1,7 @@
-## Hi there 👋
+<a href="https://github.com/kawarimidoll/typograssy" ><div align="center"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=zzScarletzz&l0=97f40b&l1=f50049&l2=ff00c8&l3=ff0000&l4=ff00d0&bg=1dfa00&speed=16&comment=Ilove%20Flandre%20Scarlet"></a>
+<div align="center">zzScarletzz</div>
+-----------------------------------------
+<div align="center">Japanese Cracker</div>
 
 <!--
 **zzScarletzz/zzScarletzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
