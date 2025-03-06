@@ -2,6 +2,10 @@
 <div align="center">zzScarletzz</div>
 <div align="center">-----------------------------------------</div>
 <div align="center">Japanese Cracker</div>
+<div align="Left">3J|T@zzScarletzz: ~$Readme.txt</div>
+>> 単にCrackをすることがご飯よりも好きな人間です。
+>>
+
 
 <!--
 **zzScarletzz/zzScarletzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
